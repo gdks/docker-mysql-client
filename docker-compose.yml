@@ -4,3 +4,4 @@ services:
   client:
     build:
       context: .
+    image: gdks/docker-mysql-client:latest
